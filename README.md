@@ -1,4 +1,7 @@
 # recipes
+This is a demo application put together for the dotCMS webinar on Single Page Applications. 
+
+https://dotcms.com/company/events/building-and-managing-single-page-apps-in-dotcms
 
 ## Project setup
 ```
